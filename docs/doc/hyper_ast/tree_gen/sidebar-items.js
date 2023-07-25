@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["compute_indentation","get_spacing","has_final_space","try_compute_indentation","try_get_spacing"],"mod":["parser"],"struct":["BasicAccumulator","BasicGlobalData","Parents","SpacedGlobalData","SubTreeMetrics","TextedGlobalData"],"trait":["AccIndentation","Accumulator","GlobalData","TotalBytesGlobalData","TreeGen","ZippedTreeGen"],"type":["Spaces"]};

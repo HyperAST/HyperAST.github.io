@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["RawVariant","RawVariantDiscriminants","Variant","VariantRef"],"struct":["DedupPacked","FetchedLabels","HashedNodeRef","LabelIdentifier","NodeIdentifier","NodeStore","SimplePacked","SimplePackedBuilder"]};

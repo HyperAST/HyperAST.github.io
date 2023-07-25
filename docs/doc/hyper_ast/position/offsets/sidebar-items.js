@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["Offsets","OffsetsRef","RootedOffsets","RootedOffsetsRef"]};
