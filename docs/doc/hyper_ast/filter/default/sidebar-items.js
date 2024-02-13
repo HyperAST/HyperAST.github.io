@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["hash16","hash16_mod"],"struct":["MyDefaultHasher","Pearson"],"trait":["VaryHasher"]};

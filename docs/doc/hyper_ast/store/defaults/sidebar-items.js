@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"type":["LabelIdentifier","LabelValue","NodeIdentifier"]};
