@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["label_id_from_usize"],"struct":["LabelStore"],"type":["DefaultLabelIdentifier","DefaultLabelValue"]};

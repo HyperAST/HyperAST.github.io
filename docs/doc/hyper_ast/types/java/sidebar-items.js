@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Field","Type"],"struct":["Factory","Language","TypeIter"]};
