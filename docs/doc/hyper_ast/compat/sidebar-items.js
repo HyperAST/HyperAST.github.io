@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"macro":["vec"],"mod":["hash_map","vec"],"struct":["Box","HashMap","String","Vec"],"trait":["ToString"],"type":["DefaultHashBuilder"]};

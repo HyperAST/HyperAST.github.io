@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"hyper_ast":[["impl&lt;T&gt; <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/cmp/trait.Ord.html\" title=\"trait core::cmp::Ord\">Ord</a> for <a class=\"struct\" href=\"hyper_ast/store/handle/struct.Handle.html\" title=\"struct hyper_ast::store::handle::Handle\">Handle</a>&lt;T&gt;"],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/cmp/trait.Ord.html\" title=\"trait core::cmp::Ord\">Ord</a> for <a class=\"struct\" href=\"hyper_ast/utils/struct.Bytes.html\" title=\"struct hyper_ast::utils::Bytes\">Bytes</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"trait":["CreateBuilder","FileSysReceiver","ReceiveDir","ReceiveDirName","ReceiveIdx","ReceiveIdxNoSpace","ReceiveInFile","ReceiveNode","ReceiveOffset","SetRoot"]};

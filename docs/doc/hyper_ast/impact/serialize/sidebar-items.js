@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["CachedHasher","CachedHasherAux","CachedHasherError","Table"],"trait":["Error","Keyed","MySerialize","MySerializePar","MySerializeSco","MySerializer"]};

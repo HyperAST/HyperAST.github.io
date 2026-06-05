@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["CompressedNode","IndentedAlt","Space"],"struct":["IndentedSerializer","IoOut","Json","SimpleSerializer","Text"],"trait":["Format","RefContainer"],"type":["HashSize","IdsSerializer","JsonSerializer","LabelSerializer","StructureSerializer","SyntaxSerializer","SyntaxWithIdsSerializer","TextSerializer"]};
